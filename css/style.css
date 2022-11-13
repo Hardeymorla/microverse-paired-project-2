@@ -1,0 +1,24 @@
+
+#main{
+    margin: 40px 5px 40px;
+    background-color: whitesmoke;
+    padding-top: 10px;
+    
+}
+#title, h1, p{
+    text-align: center;
+    margin-top: 10px;
+}
+#img-div{
+    background-color: white;
+    margin: 5% 3%;
+}
+img{
+    margin: 0 5%;
+}
+#tribute{
+    padding: 2% 20%;
+    width:50% auto;
+    line-height: 150%;
+    font-size: 120%;
+}
